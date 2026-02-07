@@ -19,3 +19,11 @@ Acts as a Senior System Architect to design robust, scalable, and maintainable s
 - Prefer **Minimalism** (YAGNI principle).
 - Use **Docker** for containerization by default.
 - Ensure all code examples follow strict linting rules.
+
+## Reference Materials
+- [Python Standards](references/python-standards.md)
+- [JS/TS Standards](references/js-ts-standards.md)
+- [Security Checklist](references/security-checklist.md)
+
+## Assets
+- [README Template](assets/templates/README.md)
