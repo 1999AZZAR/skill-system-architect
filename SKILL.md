@@ -26,6 +26,11 @@ description: Acts as a Senior System Architect to design robust, scalable, and m
 - [Python Standards](references/python-standards.md)
 - [JS/TS Standards](references/js-ts-standards.md)
 - [Security Checklist](references/security-checklist.md)
+- [Scaffolding](references/scaffolding.md) – standard directory layouts for Python and JS/TS.
 
-## Assets
-- [README Template](assets/templates/README.md)
+## Assets (templates)
+- [README](assets/templates/README.md) – project overview, Node and Python quick-start.
+- [ARCHITECTURE](assets/templates/ARCHITECTURE.md) – components, data flow, deployment, decisions.
+- [.editorconfig](assets/templates/.editorconfig) – shared indent and line length.
+- [.pylintrc](assets/templates/.pylintrc) – Python lint (PEP 8–aligned).
+- [.eslintrc.json](assets/templates/.eslintrc.json) – JS/TS lint (TypeScript strict, Prettier).

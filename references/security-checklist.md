@@ -6,9 +6,9 @@
 - [ ] Use HTTPS everywhere (no mixed content).
 
 ## Python (Flask/FastAPI)
-- [ ] Secure headers (`Helmet.js` or `Secure-Cookies`).
-- [ ] SQL Injection prevention (use ORM or parametrized queries).
-- [ ] Rate limiting enabled (`Flask-Limiter`).
+- [ ] Security headers set (e.g. FastAPI/Starlette middleware, or Flask-Talisman); secure cookie settings.
+- [ ] SQL injection prevention (ORM or parametrized queries only).
+- [ ] Rate limiting enabled (e.g. `Flask-Limiter`, `slowapi`).
 
 ## Node.js (Express)
 - [ ] Use `helmet` middleware.
