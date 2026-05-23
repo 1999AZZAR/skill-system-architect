@@ -1,0 +1,4 @@
+interface:
+  display_name: "System Architect"
+  short_description: "Senior System Architect for robust, scalable software design."
+  default_prompt: "Architect a scalable microservices backend."
